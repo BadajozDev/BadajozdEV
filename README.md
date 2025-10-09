@@ -14,7 +14,7 @@
         <tr>
             <td align="center">
                 <h3>Languages</h3>
-                <img src="https://skillicons.dev/icons?i=php,python,javascript,java,cpp" alt="Languages" />
+                <img src="https://skillicons.dev/icons?i=php,python,java,cpp" alt="Languages" />
             </td>
             <td align="center">
                 <h3>Frameworks</h3>
