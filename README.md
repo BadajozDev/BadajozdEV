@@ -14,7 +14,7 @@
         <tr>
             <td align="center">
                 <h3>Languages</h3>
-                <img src="https://skillicons.dev/icons?i=php,python,java,cpp" alt="Languages" />
+                <img src="https://skillicons.dev/icons?i=php,python,cpp" alt="Languages" />
             </td>
             <td align="center">
                 <h3>Frameworks</h3>
@@ -22,7 +22,7 @@
             </td>
             <td align="center">
                 <h3>Tools</h3>
-                <img src="https://skillicons.dev/icons?i=mysql,postman,nodejs,github,git" alt="Tools" />
+                <img src="https://skillicons.dev/icons?i=mysql,postman,nodejs,git" alt="Tools" />
             </td>
         </tr>
     </table>
